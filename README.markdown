@@ -1,9 +1,3 @@
 # README.
 
-
-
-
-
-
-
-All right reserved juin 2016
+All right reserved juin 2016  Cedric Gelinas Demers
