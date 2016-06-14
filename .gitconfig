@@ -1,13 +1,12 @@
 [color]
-        diff = auto
-	status = auto
-	branch = auto
+    diff = auto
+    status = auto
+    branch = auto
+    ui = true
 [user]
-        name = Cedric Gelinas demers
-        email = cedricgelinas@hotmail.com
+    name = Cedric Gelinas demers
+    email = cedricgelinas@hotmail.com
 [alias]
-        ci = commit
-        co = checkout
-        st = status
-[color]
-	ui = true
+    ci = commit
+    co = checkout
+    st = status
