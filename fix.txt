@@ -1,4 +1,4 @@
 # Fix.txt
-this is our bug fix
+this is our bug fix. 
 
-fixed that terrible bug!!!!!
+fixed this terrible bug!!!!
