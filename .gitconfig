@@ -3,10 +3,11 @@
 	status = auto
 	branch = auto
 [user]
-        name = votre_pseudo
-        email = moi@email.com
+        name = Cedric Gelinas demers
+        email = cedricgelinas@hotmail.com
 [alias]
-        ci ='commit'
-        co ='checkout'
-        st ='status'
-        br ='branch'
+        ci = commit
+        co = checkout
+        st = status
+[color]
+	ui = true
